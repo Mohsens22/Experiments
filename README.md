@@ -2,6 +2,8 @@
 
 My experiments about psychology, time management and attention difficulties.
 
+[https://mohsens22.github.io/Experiments/](https://mohsens22.github.io/Experiments/)
+
 ## Read this if
 
 - You suffer from attention difficulties such as ADHD
@@ -11,11 +13,9 @@ My experiments about psychology, time management and attention difficulties.
 - The employer is not happy with your performance at work
 - You are not doing well at school
 
-[https://mohsens22.github.io/Experiments/](https://mohsens22.github.io/Experiments/)
-
 ## What I'll cover
 
-- Choice theory and how good relationships can make us happy
+- A brief look at the Choice Theory and how good relationships can make us happy
 - Laziness
 - Attention and focus
 - A working lifestyle
