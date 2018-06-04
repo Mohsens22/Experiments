@@ -1,7 +1,7 @@
 * [Choice theory](Pages/Choicetheory.md)
 * [Laziness](Pages/Laziness.md)
 * [Attention and focus](Pages/focus.md)
-* [A working lifestyle](Pages/lifestyle.md)
+* [Progressive lifestyle](Pages/lifestyle.md)
 * [A good way to manage time](Pages/managetime.md)
 * [Health of body](Pages/Healthofbody.md)
 * [Perfectionism](Pages/Perfectionism.md)

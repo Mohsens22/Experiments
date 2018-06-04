@@ -22,6 +22,7 @@ My experiments about psychology, time management and attention difficulties.
 - A good way to manage time
 - Health of body
 - Perfectionism
+- Some tips and practices
 
 ## Aim of these articles
 
