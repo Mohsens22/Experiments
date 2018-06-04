@@ -27,3 +27,7 @@ My experiments about psychology, time management and attention difficulties.
 ## Aim of these articles
 
 The goal of these article is to share my personal researches with the people who have problem in having focus. This researches originally meant to help myself (I still have lots of problems to research about) to have a better life and avoid loosing focus. So if you have ano good tips to add, send a pull request :) .
+
+## What I'm not going to cover
+
+Magic to make you perfect.
