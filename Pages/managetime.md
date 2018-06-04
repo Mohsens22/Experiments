@@ -9,13 +9,13 @@ Assume that you wake up at 7 AM and you sleep at 11 PM. then you have 16 slices 
 `#`|Task|`#`|Task
 --|--|--|--|--
 7| Take pills, Take shower, breakfast|15|Work: (The task you have)|
-8|Drive work|16|Work: (The task you have)|
-9|Work: (The task you have)|17|Drive home|
-10|Work: (The task you have)|18|Take rest - work out|
-11|Work: (The task you have)|19|Practice guitar|
-12|Work: (The task you have)|20|Watch blah blah movie|
-13|Work: (The task you have)|21|Read that book|
-14|Launch then take rest|22|Dinner|
+8|Drive work|16|Work: (The task you have)
+9|Work: (The task you have)|17|Drive home
+10|Work: (The task you have)|18|Take rest - work out
+11|Work: (The task you have)|19|Practice guitar
+12|Work: (The task you have)|20|Watch blah blah movie
+13|Work: (The task you have)|21|Read that book
+14|Launch then take rest|22|Dinner
 
 Then pin this into your room's wall. It's better to plan your week at the start of the week.
 
