@@ -103,7 +103,7 @@ Next time when you faced in-between, pretend that it's evil. Yell "in-between" a
 
 ### Health
 
-Don't expect your mind to work well if something is wrong with your body. Some illnesses like **AHDH** and **hemoconcentration** can effect your attention directly. Other types of sickness like lack of vitamins can make you tired and decrease your intelligence level and make your body weak, so it makes harder for you to practice.
+Don't expect your mind to work well if something is wrong with your body. Some illnesses like **AHDH** and **hemoconcentration** can effect your attention directly. Other types of sickness like lack of vitamins can make you tired and decrease your intelligence level and make your body weak, so it makes harder for you to focus.
 
 Whenever you had any problems or signs of sickness, visit your doctor before you get into a serious problem.
 
