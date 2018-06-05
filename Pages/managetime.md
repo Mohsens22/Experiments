@@ -40,3 +40,6 @@ If you achieved 85-95% of your plans, you are good to go. But if you scored less
 
 - Try to sleep about 45 mins to 1 hrs after launch.
 - Make time for working out
+- Try to split slices into two parts : Flexible and mandatory. I personally try to put my work and education and things which are not flexible such as gym into my mandatory part of timesheet, while I have alot of flexile time for my self doing extra study, playing guitar etc on my lovely flexible hours.
+- Try diverse tasks to get an idea about how many slices that they might take. Improve your time predictions.
+- Make 1 hour free time in the middle of your mandatory part. There might be delays or unexpected tasks to put in.
