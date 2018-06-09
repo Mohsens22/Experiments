@@ -2,6 +2,8 @@
 
 Progressive lifestyle means that you progress as time goes bye. Progressive lifestyle means starting a new thing to learn or to do in each year. It means making a better place to live. Means a making a better person of yourself. Means to develop your financial status. And making yourself happy with your life.
 
+Having a progressive lifestyle isn't easy. Sometimes we should fight ourselves, our body(when there is something wrong with that), others and mainstream.
+
 ## Unsuccessful people
 
 There are two types of unsuccessful people who always suck:
@@ -27,6 +29,23 @@ Just go fucking do it, don't wait for a trick. Videos ain't gonna help much. Jus
 Stop saying yourself lazy, we can act sometimes in a lazy way because of our life cycle but we are not lazy. Laziness is an excuse.
 Sometimes it's not important what you feel, what matters is that you move your ass.
 Don't be perfectionist. Sometimes you must do half ass.
+
+### Time management.
+
+Take these steps:
+
+- List your 10 most important values of your life
+- Be realistic, you ain't gonna make a fiction.
+- Declare something that you want to live for.
+- Declare a long term goal.
+- Declare something to achieve in this year.
+- Declare something to achieve in this season.
+- Pin them into your wall
+- Then you need methods and techniques for achieving each of your goals. Search for them.
+- Then plan for your month, week and day.
+- Then you need a method for time management.
+- For extra help in planning, read [this](https://mohsens22.github.io/Experiments/#/Pages/managetime).
+- You're gonna fail at some points. Learn and retry.
 
 ## Media is a lier
 
