@@ -86,6 +86,7 @@ If you achieved 85-95% of your plans, you are good to go. But if you scored less
 
 ## Tips
 
+- You're gonna fail. That's OK. Learn from your mistakes and try again.
 - Make use of alarms.
 - Try to sleep about 45 mins to 1 hrs after launch.
 - There is a website named [Sleepyti.me](https://sleepyti.me/) which can help you to arrenge your sleep time.
