@@ -98,6 +98,9 @@ Sometimes you have great ideas in your head, but they come in a wrong moment tha
 
 When you want to do something, but you don't feel of doing that, thats **IN BETWEEN**.
 Next time when you faced in-between, pretend that it's evil. Yell "in-between" and go crazy. Then go fucking do that task.
+Sometimes it's not important how we feel. What we do is important.
+
+
 
 > 3 second rule: after 3 seconds of in-between go ahead and act.
 
@@ -113,7 +116,7 @@ Exercise helps trigger endorphins, which improve the prioritizing functions of t
 
 #### Food
 
-Healty food, nuts, vegetables, fruits and juices can help your mind to concentrate. So care more about your eating habits.
+Healty food, sea food, protein, nuts, vegetables, fruits lile strawberry and sweet drinks like juices can help your mind to concentrate. So care more about your eating habits.
 
 ## Forgetting things
 
@@ -137,5 +140,5 @@ Forgetting starts as soon as learning. So use this tips to stick things to your 
 
 ## Notes
 
-Take notes while you are studying. It increases your learning rate. Don’t spend two hours studying. Review parts of your notes for ten to twenty minutes before you go to bed on a regular basis. You might try things like making your notes into flashcards or creating mock exams from them. It’s amazing how much you learn when you create the evaluation tool.
+Take notes while you are studying. It increases your learning rate. Don’t spend two hours studying. Review parts of your notes for ten to twenty minutes before you go to bed on a regular basis. You might try things like making your notes into flashcards or creating mock exams from them. It’s amazing how much you learn when you create the evaluation tool. Focus is nothing except acting and learning from mistakes.
 
