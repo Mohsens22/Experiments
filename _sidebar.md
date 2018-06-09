@@ -5,3 +5,4 @@
 * [Health of body](Pages/Healthofbody.md)
 * [Perfectionism](Pages/Perfectionism.md)
 * [Choice theory](Pages/Choicetheory.md)
+* [Forty Toxic Ideas That Are Driving You Crazy](Pages/FortyToxicIdeas.md)
