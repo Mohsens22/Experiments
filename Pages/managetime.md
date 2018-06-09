@@ -92,7 +92,7 @@ If you achieved 85-95% of your plans, you are good to go. But if you scored less
 - There is a website named [Sleepyti.me](https://sleepyti.me/) which can help you to arrenge your sleep time.
 - Get enough sleep. 6-8 hours in a day.
 - Take Me times, retrospectives and sport serious. Otherwise you might loose your track.
-- Make time for working out it helps your mind work better.
+- Make time for working out it helps your mind work better. It's recommmeded to workout 30mins - 1 hr/day.
 - Try to split slices into two parts : Flexible and mandatory. I personally try to put my work and education and things which are not flexible such as gym into my mandatory part of timesheet, while I have alot of flexile time for my self doing extra study, playing guitar etc on my lovely flexible hours.
 - Try diverse tasks to get an idea about how many slices that they might take. Improve your time predictions.
 - Make 1 hour free time in the middle of your mandatory part. There might be delays or unexpected tasks to put in.
