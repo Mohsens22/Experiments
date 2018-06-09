@@ -113,6 +113,12 @@ I tend to lose my daily rhythm and routine when I am suffering from:
 
 #### Lack of total happiness
 
+According the [Choice Theory](https://mohsens22.github.io/Experiments/#/Pages/Choicetheory) total happiness can be ruined by bad relationships at work, home or education; So we choose being sad as our total behavior. Read my choice theory article to find out more.
+
+#### Something unordinary happened
+
+We do not have 100% control of our life and sometimes something unexpected can happen and can distract us. The best way is to predict these distracting events and having flexible routines. But after you lost your routine read this article from top and try to rebuild and restart your routine as soon as possible.
+
 #### Lack of sleep
 
 We all need an adequate amount of rest and sleep to keep ourselves energized enough to fulfill the rest of our commitments and to really enjoy life to the fullest on a daily basis.  However, sleep is usually the first thing I sacrifice when I am trying to do too much.  Evaluate whether or not you are getting enough rest, and make adjustments.
